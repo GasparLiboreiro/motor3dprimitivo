@@ -1,4 +1,4 @@
-permite mostrar cualquier forma hecha con lineas<br>
+permite mostrar una forma cualquiera hecha con lineas<br>
 no tiene ningun tipo de estuctura para autogenerar los modelos<br>
 moverte y girar, gira y mueve la escena en vez de la camara<br>
 
